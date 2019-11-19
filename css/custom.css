@@ -1,0 +1,22 @@
+#mc_embed_signup {
+    background-color: rgba(0,0,0,0) !important;
+    color: black;
+}
+
+#mc-embedded-subscribe {
+    background-color: #50e389;
+    border-color: #50e389;
+    color: white;
+}
+
+#mce-EMAIL {
+    width: 100%;
+}
+
+.slide-1:before {
+    background: none;
+}
+
+.footer-section {
+    padding: 0;
+}
