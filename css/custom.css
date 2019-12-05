@@ -6,3 +6,28 @@
 #section_info {
     margin-top: 50px;
 }
+
+@media only screen and (max-width: 992px) {
+    #my-timeline {
+        height: 600px;
+        padding-top: 250px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #my-timeline {
+        height: 400px;
+        padding-top: 20px;
+    }
+
+    #countdown_title {
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (width: 768px) {
+    #my-timeline {
+        height: 850px;
+        padding-top: 450px;
+    }
+}
