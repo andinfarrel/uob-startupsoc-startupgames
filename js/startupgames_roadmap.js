@@ -5,7 +5,7 @@ $(document).ready(function(){
             content: 'Submissions open!'
         },
         {
-            date: '11th Jan 2020',
+            date: '26th Jan 2020',
             content: 'Submissions close'
         },
         {
