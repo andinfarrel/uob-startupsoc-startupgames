@@ -7,6 +7,29 @@
     margin-top: 50px;
 }
 
+#finals-agenda {
+    padding: 50px;
+}
+
+#finals-agenda h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#finals-agenda table {
+    margin: 0 auto;
+}
+
+#finals-agenda th:first-child,
+#finals-agenda td:first-child {
+    padding-right: 20px;
+}
+
+
+#finals-agenda tbody tr td:nth-child(2) {
+    font-style: italic;
+}
+
 @media only screen and (max-width: 992px) {
     #my-timeline {
         height: 600px;

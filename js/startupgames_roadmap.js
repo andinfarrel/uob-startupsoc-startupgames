@@ -15,11 +15,15 @@ $(document).ready(function(){
         {
             date: '10th Mar 2020',
             content: 'Finals'
+        },
+        {
+            date: '11th Mar 2020',
+            content: 'Startup Connections'
         }
     ];
 
     $('#my-timeline').roadmap(events, {
-        eventsPerSlide: 4,
+        eventsPerSlide: 6,
         slide: 1,
         prevArrow: '<i class="material-icons">keyboard_arrow_left</i>',
         nextArrow: '<i class="material-icons">keyboard_arrow_right</i>'
