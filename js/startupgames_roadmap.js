@@ -1,29 +1,25 @@
 $(document).ready(function(){
     var events = [
         {
-            date: '1st Dec 2019',
+            date: '28th January 2021',
             content: 'Submissions open!'
         },
         {
-            date: '26th Jan 2020',
+            date: '8th February 2021',
             content: 'Submissions close'
         },
         {
-            date: '11th Feb 2020',
+            date: '15th Feb 2020',
             content: 'Finalists announced'
         },
         {
-            date: '10th Mar 2020',
+            date: '15th Mar 2020',
             content: 'Finals'
-        },
-        {
-            date: '11th Mar 2020',
-            content: 'Startup Connections'
         }
     ];
 
     $('#my-timeline').roadmap(events, {
-        eventsPerSlide: 6,
+        eventsPerSlide: 4,
         slide: 1,
         prevArrow: '<i class="material-icons">keyboard_arrow_left</i>',
         nextArrow: '<i class="material-icons">keyboard_arrow_right</i>'
