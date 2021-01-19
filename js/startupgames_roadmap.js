@@ -9,11 +9,11 @@ $(document).ready(function(){
             content: 'Submissions close'
         },
         {
-            date: '15th Feb 2020',
+            date: '15th Feb 2021',
             content: 'Finalists announced'
         },
         {
-            date: '15th Mar 2020',
+            date: '15th Mar 2021',
             content: 'Finals'
         }
     ];
