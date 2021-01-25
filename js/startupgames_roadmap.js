@@ -1,7 +1,7 @@
 $(document).ready(function(){
     var events = [
         {
-            date: '28th January 2021',
+            date: '26th January 2021',
             content: 'Submissions open!'
         },
         {
