@@ -5,11 +5,11 @@ $(document).ready(function(){
             content: 'Submissions open!'
         },
         {
-            date: '8th February 2021',
+            date: '15th February 2021',
             content: 'Submissions close'
         },
         {
-            date: '15th Feb 2021',
+            date: '20th Feb 2021',
             content: 'Finalists announced'
         },
         {
